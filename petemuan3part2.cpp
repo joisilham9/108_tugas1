@@ -26,6 +26,6 @@ using namespace std;
     cout << "Masukan nilai Bahasa Indonesia = ";
     cin  >>  nilB;
     cout << "status kelulusan = " << status(rerata(nilM,nilB));
-    cout << "\nstatus kelulusan ke 2 = " << status2(rerata(nilM,nilB),nilM);
+    cout << "\nstatus kelulusan ke 3 = " << status2(rerata(nilM,nilB),nilM);
     return 0;
   }
